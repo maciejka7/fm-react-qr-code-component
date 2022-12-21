@@ -1,3 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+body,
+html,
+#root {
+  background-color: #d5e1ef;
+  height: 100vh;
+  font-family: 'Outfit';
+  font-size: 15px;
+  font-weight: 400;
+  letter-spacing: 1.1l
+}
+p {
+  padding: 0;
+  margin: 0;
+}
