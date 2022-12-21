@@ -19,7 +19,7 @@ Simple QR Code card component design
 
 ### Screenshot
 
-![Preview](/qr-code-component preview.png)
+![Preview](./qr-code-component%20preview.png)
 
 ### Links
 
