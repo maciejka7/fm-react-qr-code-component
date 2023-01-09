@@ -23,8 +23,8 @@ Simple QR Code card component design
 
 ### Links
 
-- Solution URL: [GitHub Repo(https://github.com/maciejka7/fm-react-qr-code-component)
-- Live Site URL: [fm-react-qr-code-component.vercel.app](fm-react-qr-code-component.vercel.app)
+- Solution URL: [GitHub Repo](https://github.com/maciejka7/fm-react-qr-code-component)
+- Live Site URL: [Page on Vercel](fm-react-qr-code-component.vercel.app)
 
 
 ### Built with
